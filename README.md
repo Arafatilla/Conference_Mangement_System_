@@ -1,5 +1,5 @@
-## Fonctionnalités Principales
-# 1. Gestion des Conférences:
+# Fonctionnalités Principales
+## 1. Gestion des Conférences:
 o Création de conférences par un éditeur.
 o Gestion des informations des conférences : titre, thématique, dates de 
 début et fin, et état (ouverte, fermée, en évaluation).
