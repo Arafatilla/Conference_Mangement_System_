@@ -27,7 +27,7 @@ o Accès aux évaluations par l'éditeur.
 
 # Structure de Projet 
 
-com.example.demo/
+```com.example.demo/
 ├── config/
 │ └── SecurityConfig.java
 ├── controllers/
